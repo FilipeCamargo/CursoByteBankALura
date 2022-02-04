@@ -7,7 +7,7 @@ Exemplo de banco digital criado em curso desenvolvido pela Alura
 - Opções de Saque e de Depósito;
 - Transferência do dinheiro para outra conta;
 
-## Conceitos implementados:
+## Conceitos implementados: 💻
 1. Herança;
 2. Interface;
 3. Polimorfismo;
