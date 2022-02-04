@@ -2,7 +2,7 @@
 Exemplo de banco digital criado em curso desenvolvido pela Alura
 
 
-## Conheça nossos serviços:
+## Conheça nossos serviços: 🤑
 - Criação de conta corrente com 100 Reais iniciais;
 - Opções de Saque e de Depósito;
 - Transferência do dinheiro para outra conta;
